@@ -1,9 +1,9 @@
 # Documentation: TryHackMe SOC L1 - Snort Live Attack Challenge - Brute-Force
 
 ## 1. Introduction
-- The room invites you to a challenge where you will investigate a series of traffic data and stop malicious activity under two different scenarios. Let's start working with Snort to analyze live and captured traffic
+- The room invites you to a challenge where you will investigate a series of traffic data and stop malicious activity work with Snort to analyze live and captured traffic
 ### Objective
-- Observe the traffic with Snort and identify the anomaly first. Then you can create a rule to stop the brute-force attack.
+- Observe the traffic with Snort and identify the anomaly first. Then you can create a rule to stop the brute-force attack and capture the flag
 
 ## 2. Setup 
 ### Prerequisites
