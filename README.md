@@ -10,6 +10,7 @@
 
 ## 3. Procedures
   ### Brute-Force Scenario
-    Start Snort in sniffer mode and try to figure out the attack source, service, and port.
+  - Start Snort in sniffer mode and try to figure out the attack source, service, and port.
+      Enter `snort -vde`
 
 
