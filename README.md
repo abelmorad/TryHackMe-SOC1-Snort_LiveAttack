@@ -23,6 +23,9 @@
       - ![snortliveattack4](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/1cb8f16c-79a4-4598-b37b-1c6dc45d9e9a)
     - We figured that the TCP/22 is under attack by the source of that IP address. Let's create an IPS rule in Snort to stop the attack
     - Gain root access using `sudo su` then in the root directory and navigate to the rules directory. Enter `cd /etc/snort/rules`
-    - 
+    - In the rules directory there are various rule sets available we need to open local.rules and add our rule. Enter `nano local.rule`
+    - Let's add our rule 
+      - ![snortliveattack7](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/b0300b8b-7f10-4cc0-803e-411507c643fa)
+
 
 
