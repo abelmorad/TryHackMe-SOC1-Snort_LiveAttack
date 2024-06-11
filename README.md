@@ -9,8 +9,7 @@
 - Access to the TryHackMe platform
 
 ## 3. Procedures
-**Brute-Force Scenario**
-  - Start Snort in sniffer mode and try to figure out the attack source, service, and port.
-    --
+  ### Brute-Force Scenario
+    -- Start Snort in sniffer mode and try to figure out the attack source, service, and port.
 
 
