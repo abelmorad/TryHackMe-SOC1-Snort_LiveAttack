@@ -6,7 +6,7 @@
 - Observe the traffic with Snort and identify the anomaly first. Then you can create a rule to stop the brute-force attack.
 
 ## 2. Setup 
-**Prerequisites**
+### Prerequisites
 - Basic knowledge of network security concepts
 - Access to the TryHackMe platform
 
