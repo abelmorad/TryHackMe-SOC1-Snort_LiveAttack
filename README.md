@@ -25,7 +25,8 @@
     - Gain root access using `sudo su` then in the root directory and navigate to the rules directory. Enter `cd /etc/snort/rules`
     - In the rules directory there are various rule sets available we need to open local.rules and add our rule. Enter `nano local.rule`
     - Let's add our rule 
-      - ![snortliveattack7](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/b0300b8b-7f10-4cc0-803e-411507c643fa)
+      - ![image](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/7088bd18-851d-4411-8f7c-4fc2a070dad2)
+
 
 
 --http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node4.html
