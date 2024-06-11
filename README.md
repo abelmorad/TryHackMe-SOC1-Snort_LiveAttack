@@ -19,8 +19,10 @@
   - Analyze the packet and look for anomalys
     - This IP keeps coming up in the packets
       - ![snortliveattack2](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/b22ebf3c-25c5-40ca-8a89-b2ae43e2cfeb)
-    - It seems suspicious let us find out how many times this IP comes up. Enter snort -vde | grep 10.10.45.36
+    - It seems suspicious let us find out how often this IP comes up. Enter `snort -vde | grep 10.10.45.36`
       - ![snortliveattack4](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/1cb8f16c-79a4-4598-b37b-1c6dc45d9e9a)
-
+    - We figured that the TCP/22 is under attack by the source of that IP address. Let's create an IPS rule in Snort to stop the attack
+    - Gain root access using `sudo su` then in the root directory and navigate to the rules directory. Enter `cd /etc/snort/rules`
+    - 
 
 
