@@ -28,4 +28,4 @@
       - ![snortliveattack7](https://github.com/abelmorad/TryHackMe-SOC1-Snort_LiveAttack/assets/110463619/b0300b8b-7f10-4cc0-803e-411507c643fa)
 
 
-
+--http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node4.html
