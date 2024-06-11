@@ -10,7 +10,7 @@
 
 ## 3. Procedures
   ### Brute-Force Scenario
-  ***Start Snort in sniffer mode and try to figure out the attack source, service, and port.***
+  - ***Start Snort in sniffer mode and try to figure out the attack source, service, and port.***
     - In the CLI enter `snort -vde` to display the packet data, headers as well as the data link layer headers
 
 
