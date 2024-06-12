@@ -43,8 +43,8 @@
 
 ## 6. References
 
-- ![Snort Documentation](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node4.html)
-- ![Blocking Brute Force Attacks by OWASP](https://owasp.org/www-community/controls/Blocking_Brute_Force_Attacks#:~:text=The%20most%20obvious%20way%20to,manually%20unlocked%20by%20an%20administrator.)
+- [Snort Documentation](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node4.html)
+- [Blocking Brute Force Attacks by OWASP](https://owasp.org/www-community/controls/Blocking_Brute_Force_Attacks#:~:text=The%20most%20obvious%20way%20to,manually%20unlocked%20by%20an%20administrator.)
 
 
 
